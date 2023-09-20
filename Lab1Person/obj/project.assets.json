@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\211 Csharp\\Lab1Person\\Lab1Person.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\CsharpLab1\\Lab1Person\\Lab1Person.csproj",
       "projectName": "Lab1Person",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\211 Csharp\\Lab1Person\\Lab1Person.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\CsharpLab1\\Lab1Person\\Lab1Person.csproj",
       "packagesPath": "C:\\Users\\chunxiahuang\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\211 Csharp\\Lab1Person\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\CsharpLab1\\Lab1Person\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

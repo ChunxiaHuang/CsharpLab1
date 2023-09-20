@@ -26,3 +26,17 @@ D:\211 Csharp\Lab1Person\obj\Debug\net6.0\ref\Lab1Person.dll
 \\Mac\Home\Desktop\211 Csharp\Lab1Person\obj\Debug\net6.0\Lab1Person.pdb
 \\Mac\Home\Desktop\211 Csharp\Lab1Person\obj\Debug\net6.0\Lab1Person.genruntimeconfig.cache
 \\Mac\Home\Desktop\211 Csharp\Lab1Person\obj\Debug\net6.0\ref\Lab1Person.dll
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\bin\Debug\net6.0\Lab1Person.exe
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\bin\Debug\net6.0\Lab1Person.deps.json
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\bin\Debug\net6.0\Lab1Person.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\bin\Debug\net6.0\Lab1Person.dll
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\bin\Debug\net6.0\Lab1Person.pdb
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\obj\Debug\net6.0\Lab1Person.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\obj\Debug\net6.0\Lab1Person.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\obj\Debug\net6.0\Lab1Person.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\obj\Debug\net6.0\Lab1Person.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\obj\Debug\net6.0\Lab1Person.dll
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\obj\Debug\net6.0\refint\Lab1Person.dll
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\obj\Debug\net6.0\Lab1Person.pdb
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\obj\Debug\net6.0\Lab1Person.genruntimeconfig.cache
+\\Mac\Home\Documents\GitHub\CsharpLab1\Lab1Person\obj\Debug\net6.0\ref\Lab1Person.dll

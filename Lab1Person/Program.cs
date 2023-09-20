@@ -13,17 +13,20 @@ namespace Lab1Person
             Person person4 = new Person(4,"Mary","Beals","Yellow",28,true);
 
             //display Gina's information as a sentence
-            person2.DisplayPersonInfo();
+            string ginasInfo = person2.DisplayPersonInfo();
+            Console.WriteLine(ginasInfo);
 
             //display Mike's information as a list
-            person3.ToString();
+            Console.WriteLine(person3.ToString());
 
             //change Ian's favorite colour and display
             person1.ChangeFavoriteColour();
-            person1.DisplayPersonInfo();
+            string iansInfo = person1.DisplayPersonInfo();
+            Console.WriteLine(iansInfo);
 
             //display Mary's age in 10 years
-            person4.GetAgeInTenYears();
+            int ageAfterTenYears = person4.GetAgeInTenYears();
+            Console.WriteLine($"{person4.FirstName} {person4.LastName}'s Age in 10 years is: {ageAfterTenYears}");
 
             //create 2 Relation objects
             Relation relation1 = new Relation("Sister", person2, "Sister", person4);
@@ -49,9 +52,8 @@ namespace Lab1Person
             }
 
             //calculate the average of age
-            double averageAge = 0;
             double numberOfPeople = people.Count;
-            averageAge = sum / numberOfPeople;
+            double averageAge = sum / numberOfPeople;
 
             Console.WriteLine($"Average age is: {averageAge}");
 
@@ -78,9 +80,9 @@ namespace Lab1Person
             Console.WriteLine("The oldest person is: " + oldestName);
 
             //display people's infomation in a list
-            person3.ToString();
-            person4.ToString();
-            person3.ToString();
+            Console.WriteLine(person3.ToString());
+            Console.WriteLine(person4.ToString());
+            Console.WriteLine(person3.ToString());
         }
     }
 }
